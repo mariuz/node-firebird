@@ -33,7 +33,7 @@
         "long": "^5.2.3"
     },
     "devDependencies": {
-        "coveralls-next": "^4.2.0",
+        "coveralls-next": "^6.0.1",
         "oxlint": "^0.15.11",
         "vitest": "^4.0.18"
     }
